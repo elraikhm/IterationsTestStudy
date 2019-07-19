@@ -8,7 +8,6 @@ import static com.microsoft.java.collection.iteration.Person.getPeopleStream;
 //This file contains a list of empty functions (task1, task2..) and the main function. Each function has a header with task description and footer to record your feedback
 //Start implementing empty functions one by one per defined order and record your feedback in the function footer as you are doing the task.
 //Make sure to record the start time for each task before you start working on it. 
-// Once done with all the tasks, please complete the footer under the main function
 //Once you are done,  please save and share recorded feedback and implementation  per instructions provided with User Testing
 
 //The tasks below use data stored in class Person (Person.java). The class holds data about 8 people (name, age,sex).
