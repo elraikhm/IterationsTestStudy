@@ -3,7 +3,7 @@ package com.microsoft.java.collection.iteration;
 import static com.microsoft.java.collection.iteration.Person.getPeopleIterable;
 
 //  You  only  need Java 8 (or later) (1.8.0_xxx jre) and  Java code editor of your choice ( eclipse/ IntelliJ/ VSCode) 
-//	Try to build and  run this file as Java Application  once and see if it runs. 
+//  Try to build and  run this file as Java Application  once and see if it runs. 
 //  This file contains a list of empty functions (task1, task2..) and the main function. Each function has a header with task description and footer to record your feedback
 //  Start implementing empty functions one by one per defined order and record your feedback in the function footer as you are doing the task.
 //  Make sure to record the start time for each task before you start working on it. 
